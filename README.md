@@ -2,4 +2,4 @@
 
 ## New Section
 This is a new section added for Task 3.
-Conflict line: change-from-main
+Conflict line: change-from-branch
